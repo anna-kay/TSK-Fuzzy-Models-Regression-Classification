@@ -3,8 +3,10 @@
 This repo examines the performance of **TSK fuzzy models** in regression and classification tasks.
 
 To explore the behaviours of fuzzy regression & fuzzy classification in various conditions, both are applied on two types of datasets:
-- A simple dataset &
-- A high-dimensional dataset
+- a simple dataset &
+- a high-dimensional dataset
+
+The project is organized following this rationale.
 
 The implementation is in **Matlab** (R2019a) using the **Fuzzy Logic Toolbox**.
 
