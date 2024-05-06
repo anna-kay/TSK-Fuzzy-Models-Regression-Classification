@@ -1,6 +1,6 @@
 ## Overview
 
-## Datasets
+## Data
 
 Airfoil Self-Noise Data Set
 
