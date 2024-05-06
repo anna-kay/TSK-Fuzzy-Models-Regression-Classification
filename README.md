@@ -2,6 +2,12 @@
 
 ## Data
 
-Airfoil Self-Noise Data Set
+Datasets for Regression:
+- Airfoil Self-Noise Dataset - https://archive.ics.uci.edu/dataset/291/airfoil+self+noise
+- Superconductivty Dataset - https://archive.ics.uci.edu/dataset/464/superconductivty+data
 
-airfoil_self_noise.dat
+Datasets for Classification:
+- Avila Dataset - https://archive.ics.uci.edu/dataset/459/avila
+- Isolet Dataset - https://archive.ics.uci.edu/dataset/54/isolet
+
+All the above datasets are available through the UCI repository (https://archive.ics.uci.edu/dataset/54/isolet)
