@@ -1,5 +1,7 @@
 ## Overview
 
+This repo examines the performance of TSK fuzzy models in regression and classification tasks.
+
 ## Data
 
 Datasets for Regression:
