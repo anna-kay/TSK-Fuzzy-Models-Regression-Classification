@@ -20,6 +20,10 @@ All the above datasets are available through the UCI repository (https://archive
 ```
 | - regression/
 | - - simple_dataset/
+| - - - - Regression_TSK_model_1.m
+| - - - - Regression_TSK_model_2.m
+| - - - - Regression_TSK_model_3.m
+| - - - - Regression_TSK_model_4.m
 | - - - - evaluation_metrics_plots
 | - - high_dimensionality_dataset/
 | - - - - evaluation_metrics_plots
