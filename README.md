@@ -57,6 +57,7 @@ All the above datasets are available through the UCI repository (https://archive
 | - - - - - - sug101.fis 
 | - - - - evaluation_metrics_plots/
 | - - isolet_dataset/
+| - - - - isolet.dat
 | - - - - src/
 | - - - - - - Classification_Grid_Search.m
 | - - - - - - plotMFs.m
