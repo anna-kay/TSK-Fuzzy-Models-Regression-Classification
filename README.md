@@ -17,8 +17,8 @@ Datasets for Regression:
 - **High-dimensional:** Superconductivty Dataset - https://archive.ics.uci.edu/dataset/464/superconductivty+data
 
 Datasets for Classification:
-- **Simple:** Avila Dataset - https://archive.ics.uci.edu/dataset/459/avila
-- **High-dimensional:** Isolet Dataset - https://archive.ics.uci.edu/dataset/54/isolet
+- **Simple:** Isolet Dataset - https://archive.ics.uci.edu/dataset/54/isolet 
+- **High-dimensional:** Avila Dataset - https://archive.ics.uci.edu/dataset/459/avila
 
 All the above datasets are available through the UCI repository (https://archive.ics.uci.edu/)
 
