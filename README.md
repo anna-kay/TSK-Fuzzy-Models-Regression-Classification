@@ -6,7 +6,7 @@ To explore the behaviours of fuzzy regression & fuzzy classification in various 
 - a simple dataset &
 - a high-dimensional dataset
 
-The project is organized following this rationale.
+The project is structured following this rationale.
 
 The implementation is in **Matlab** (R2019a) using the **Fuzzy Logic Toolbox**.
 
