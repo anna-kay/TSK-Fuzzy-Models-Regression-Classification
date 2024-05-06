@@ -20,8 +20,12 @@ All the above datasets are available through the UCI repository (https://archive
 ```
 | - regression/
 | - - simple_dataset/
+| - - - - evaluation_metrics_plots
 | - - high_dimensionality_dataset/
+| - - - - evaluation_metrics_plots
 | - classification/
 | - - simple_dataset/
+| - - - - evaluation_metrics_plots
 | - - high_dimensionality_dataset/
+| - - - - evaluation_metrics_plots
 ```
