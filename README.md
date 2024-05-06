@@ -15,3 +15,13 @@ Datasets for Classification:
 - Isolet Dataset - https://archive.ics.uci.edu/dataset/54/isolet
 
 All the above datasets are available through the UCI repository (https://archive.ics.uci.edu/)
+
+## Project Structure
+```
+| - regression/
+| - - simple_dataset/
+| - - high_dimensionality_dataset/
+| - classification/
+| - - simple_dataset/
+| - - high_dimensionality_dataset/
+```
