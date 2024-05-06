@@ -18,7 +18,7 @@ All the above datasets are available through the UCI repository (https://archive
 
 ## Project Structure
 ```
-| - 1.fuzzy regression/
+| - 1.fuzzy_regression/
 | - - airfoil_self_noise_dataset/
 | - - - - airfoil_self_noise.dat
 | - - - - src/
@@ -29,7 +29,7 @@ All the above datasets are available through the UCI repository (https://archive
 | - - - - - - split_scale.m
 | - - - - - - plotMFs.m
 | - - - - - - fis.fis
-| - - - - evaluation_metrics_plots
+| - - - - evaluation_metrics_plots/
 | - - superconduct_dataset/
 | - - - - superconduct.csv
 | - - - - src/
@@ -37,9 +37,9 @@ All the above datasets are available through the UCI repository (https://archive
 | - - - - - - plotMFs.m
 | - - - - - - Regression_Grid_Search.m
 | - - - - - - split_80_20.m
-| - - - - evaluation_metrics_plots
-| - - - - ranks
-| - 2.fuzzy classification/
+| - - - - evaluation_metrics_plots/
+| - - - - ranks/
+| - 2.fuzzy_classification/
 | - - avila_dataset/
 | - - - - avila.txt
 | - - - - src/
@@ -49,12 +49,12 @@ All the above datasets are available through the UCI repository (https://archive
 | - - - - - - Classification_TSK_classIndependent_smallRadius.m
 | - - - - - - plotMFs.m
 | - - - - - - sug101.fis 
-| - - - - evaluation_metrics_plots
+| - - - - evaluation_metrics_plots/
 | - - isolet_dataset/
 | - - - - src/
 | - - - - - - Classification_Grid_Search.m
 | - - - - - - plotMFs.m
 | - - - - - - split_80_20_Stratified.m
 | - - - - - - sug191.fis
-| - - - - evaluation_metrics_plots
+| - - - - evaluation_metrics_plots/
 ```
