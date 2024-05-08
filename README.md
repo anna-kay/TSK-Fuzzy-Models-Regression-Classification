@@ -65,3 +65,10 @@ All the above datasets are available through the UCI repository (https://archive
 | - - - - - - sug191.fis
 | - - - - evaluation_metrics_plots/
 ```
+## Main Project
+
+### Airfoil Self-Noise Dataset
+
+The data was normalized to the range [0, 1].
+
+### Superconductivty Dataset
