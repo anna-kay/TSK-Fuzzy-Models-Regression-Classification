@@ -89,8 +89,6 @@ bar(error);
 xlabel('# of testset sample'); ylabel('absolute error value');
 title('Prediction Errors');
 
-
-
 %% Metrics computation
 
 RMSE = sqrt(mse(Y_test_pred, Y_test));
